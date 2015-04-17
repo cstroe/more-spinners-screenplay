@@ -14,8 +14,8 @@ seats.
 
 GALEN, a product manager suddenly appears from the right.
 
-		GALEN
-	Hey guys, great work on that orgs page.  It's loading way faster than 
+		           GALEN
+	      Hey guys, great work on that orgs page.  It's loading way faster than 
         before.
 
 
