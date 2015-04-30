@@ -39,5 +39,27 @@ described on the ticket.  RADLEY's expression is unchanged.
         Do you have it up? I can show you real quick.
 
 
+GALEN brushes MILFORD aside, grabs the mouse and gets a wicked gleam in his eye. 
+He navigates to the accounts page, and is greeted by a WOCKA.
 
+                MILFORD
+        That's the bug we're working on, it's not related to-
+
+                GALEN
+        Right, right.
+
+GALEN navigates to the account page for a different account, and once again sees
+a WOCKA.  A tense silence ensues, broken eventually when
+
+                RADLEY
+        Maybe you should show us on DEV-VM?
+
+A slighly confused expression crosses GALEN's face, and another tense silence fills
+the air.  MILFORD expertly uses the keyboard to load up the accounts page.
+
+                GALEN
+        Did you see that?
+
+                MILFORD
+        See what?
 ```
